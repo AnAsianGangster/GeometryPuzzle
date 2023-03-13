@@ -197,6 +197,6 @@ if __name__ == '__main__':
 
 ## Some Screenshots
 
-![Screenshot 2023-03-11 at 11.06.55 PM](pictures/Screenshot 2023-03-11 at 11.06.55 PM.png)
+![Screenshot01](pictures/Screenshot01.png)
 
-![Screenshot 2023-03-11 at 11.08.50 PM](pictures/Screenshot 2023-03-11 at 11.08.50 PM.png)
+![Screenshot02](pictures/Screenshot02.png)
